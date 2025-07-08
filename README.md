@@ -4,8 +4,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Utility--First-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-Lightning-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![SPA](https://img.shields.io/badge/SPA-Single--Page--App-orange?style=for-the-badge)
-![Hooks](https://img.shields.io/badge/React_Hooks-%F0%9F%90%8D-green?style=for-the-badge)
+
 
 
 Minimal ama öğretici bir React projesi. Tarayıcı eklentisi kontrol paneli gibi çalışan bu Single Page App, **global state yönetimi**, **`useMemo` optimizasyonları**, ve **prop drilling/pruning** konularında kendimi geliştirmek için yazıldı.
